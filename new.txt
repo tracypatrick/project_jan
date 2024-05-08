@@ -8,5 +8,5 @@ git add .
 git push
 git pull
 git commit -m
-git commit -m "fixed bugs0
+git commit -mgit "fixed bugs0
 "
