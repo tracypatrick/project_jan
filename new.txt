@@ -8,5 +8,8 @@ git add .
 git push
 git pull
 git commit -m
-git commit -mgit "fixed bugs0
-"
+git commit -mgit "fixed bugs
+
+git push origin main - this is used to export
+ the codes to the central repository
+
